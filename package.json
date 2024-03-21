@@ -17,7 +17,7 @@
     "nodemon": "^1.19.4",
     "reflect-metadata": "^0.1.10",
     "routing-controllers": "^0.8.0",
-    "typeorm": "0.2.20"
+    "typeorm": "0.3.0"
   },
   "scripts": {
     "start": "nodemon --watch 'src/**/*.ts' --ignore 'src/**/*.spec.ts' --exec nodemon src/app.ts",
